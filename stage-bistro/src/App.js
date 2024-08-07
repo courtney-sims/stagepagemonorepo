@@ -10,14 +10,6 @@ function App() {
 		Aurora's Italian Bistro - home of the world's tastiest meatball
 		A Sister Cat Industries corporation
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
