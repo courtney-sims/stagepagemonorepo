@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
 		Aurora's Italian Bistro - home of the world's tastiest meatball
+		A Sister Cat Industries corporation
         </p>
         <a
           className="App-link"
